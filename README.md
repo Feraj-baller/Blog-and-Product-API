@@ -39,6 +39,8 @@ This is a RESTful API built using Django and Django REST Framework (DRF). It han
    cd <your-repo-name>
 Set up virtual environment
 
+Set up virtual environment
+
 bash
 Copy
 Edit
@@ -97,3 +99,6 @@ This project is open-source and free to use for educational purposes.
 Akinsanya Oluwaferanmi Joshua
 GitHub: @feraj-baller
 
+yaml
+Copy
+Edit
