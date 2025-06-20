@@ -112,7 +112,4 @@ This project is open-source and available for educational and personal use.
 
 ```
 
----
 
-Would you like me to generate the `requirements.txt` file for this project too?
-```
